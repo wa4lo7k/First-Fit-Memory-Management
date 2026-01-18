@@ -50,6 +50,14 @@ python main.py --help
 - 📝 Detailed operation logs
 - ⚠️ Error handling and validation
 
+<img width="1355" height="728" alt="image" src="https://github.com/user-attachments/assets/716e4ad5-6486-4fcd-ae89-d43f2a568d65" />
+<img width="1366" height="722" alt="260118_18h46m56s_screenshot" src="https://github.com/user-attachments/assets/93c3180c-ab56-4d74-a235-d9fbf5a79afb" />
+<img width="1359" height="721" alt="260118_18h47m18s_screenshot" src="https://github.com/user-attachments/assets/72a25d9e-86ca-470f-93c8-8413a00d884e" />
+<img width="1348" height="768" alt="image" src="https://github.com/user-attachments/assets/f6c97303-6d39-4d66-bf35-d2c8c457a6d9" />
+
+
+
+
 ## 🏗️ System Architecture
 
 ### Memory Representation
